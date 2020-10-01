@@ -1,0 +1,35 @@
+.web{
+    padding: 100px 0;
+    background-color: $backColor;
+}
+.web h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-bottom: 30px; 
+    color: $darkGray;  
+    font-family: 'asap', sans-serif;
+ }
+ .web h3{
+    font-size: 35px;
+    color: $darkGray;
+    margin-top: 68px;
+    font-family: 'asap', sans-serif; 
+}
+.web img{
+    width: 40%;
+}
+.web .web-list ul{
+    font-size: 18px;
+    color: $paraColor;
+    padding-top: 30px;
+}
+.web .web-list li{
+    margin-bottom: 10px;
+}
+.web p.descrption{
+    font-size: 18px;
+    color: $paraColor;
+    padding-top: 30px;
+    font-family: 'asap',sans-serif;
+
+}

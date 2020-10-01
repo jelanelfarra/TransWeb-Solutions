@@ -1,0 +1,29 @@
+.lang{
+    padding: 100px 0;
+    background-color: $backColor;
+}
+.lang h2{
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-bottom: 30px; 
+    color: $darkGray;  
+    font-family: 'Nunito', sans-serif;
+ }
+ .lang p{
+    line-height: 2;
+    font-size: 18px;
+    width: 80%;
+    margin: 0 auto 50px;
+    color: $paraColor;
+    font-family: 'tajawal', sans-serif;
+    margin-bottom: 150px;
+ }
+.lang-sec{
+    margin-top: 30px;
+    padding-left: 77px;
+}
+.lang-sec li{
+    color:$paraColor;
+    font-size: 18px;
+    margin-bottom: 5px;
+}

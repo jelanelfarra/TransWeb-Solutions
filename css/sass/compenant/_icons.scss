@@ -1,0 +1,54 @@
+/**********Features Icons**********************/ 
+.box .voice{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.box i{
+    color: $mainColor;
+    font-size: 25px;
+}
+/**********Statistic Icons**********************/
+.stats i{
+    color: $darkGray;
+    margin-left: -27px;
+ }
+ /**********Contact Us Icons**********************/
+ .contact-us .whats{
+    color: #fff;
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.contact-us .email{
+    color: #fff;
+    font-size: 23px;
+}
+.contact-us .email a{
+    color: #fff;
+    font-size: 23px;
+    text-decoration: none;
+}
+.contact-us .contact{
+    color: $backColor;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+/*Start Scroll To Top*/
+#scroll-top{
+	width: 50px;
+    height: 50px;
+	color:$mainColor ;
+	text-align: center;
+	border: 1px solid $mainColor;
+	border-radius: 50%;
+	position: fixed;
+	right: 15px;
+	bottom: 10px;
+    z-index: 99999;
+    display: none;
+	cursor: pointer;
+}
+#scroll-top:hover{
+    color:$backColor;
+    background-color: $darkGray;
+    border: 1px solid $darkGray;
+}

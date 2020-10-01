@@ -1,0 +1,42 @@
+
+ /************Join Us***************/
+ .join-us{
+    padding: 100px 0;
+    background-color: #f0f5f7;
+}
+.join-us h2{
+   text-transform: uppercase;
+   font-size: 40px;
+   margin-bottom: 30px; 
+   color: $darkGray;  
+   font-family: 'Nunito', sans-serif;
+}
+.join-us p{
+   line-height: 2;
+   font-size: 19px;
+   width: 80%;
+   margin: 0 auto 15px;
+   color: #6a6a6a;
+}       
+.join-us a{
+   text-decoration: none;
+}
+.join-us .row.Ar{
+   padding-right: 150px;
+}
+.join-us .row.En{
+   padding-left: 196px;
+}
+.join-us button{
+   width: 60%;
+   height: 40px;
+   margin-top: 30px;
+   border-radius: 10px;
+   background-color: #ff4557;
+   border: none;
+   font-size: 18px;
+   color:#f0f5f7;
+}
+.join-us button:hover{
+   background-color: $darkGray;
+}

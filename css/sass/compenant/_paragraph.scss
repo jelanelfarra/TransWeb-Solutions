@@ -1,0 +1,55 @@
+/************Overview Para*****************/ 
+.overview p{
+    line-height: 2;
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto 50px;
+    color: $paraColor;
+    font-family: 'asap', sans-serif;
+}
+/************Servicse Para*****************/
+.our-services .card .card-text {
+    color: $paraColor;
+    margin-bottom: -10px;
+    font-family: 'asap', sans-serif;
+ }
+ /************Featured Para*****************/
+ .container-feat p{
+    line-height: 1.6;
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto 15px;
+    color: $paraColor;
+    font-family: 'asap',sans-serif;
+
+}
+.box p{
+    color: $paraColor;
+    font-size: 18px;
+    margin-top: 150px;
+    font-family: 'asap', sans-serif;
+}
+/************Choose Para*****************/
+.choose-us p{
+    color: $paraColor;
+    font-size: 20px;
+    width: 100%;
+}
+ .team-work .info p{
+    font-size: 17px;
+    color: $paraColor;
+    font-family: 'asap', sans-serif;
+ }
+.contact-us .par{
+    margin-bottom: 55px;
+    font-weight: bold;
+    font-size: 22px;
+    color: $mainColor;
+    text-transform: uppercase;
+    font-family: 'asap', sans-serif;
+}
+.contact-us p{
+    margin-bottom: 40px;
+    font-family: 'asap',sans-serif;
+
+}

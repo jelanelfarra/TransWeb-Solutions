@@ -1,0 +1,155 @@
+body.Ar{
+    font-family: 'tajawal',sans-serif;
+    overflow: hidden;
+}
+/**********DropDown***************/
+.nav-item.dropdown{
+    list-style: none;
+    margin-top: 10px;
+    margin-left: -70px;
+    font-family: 'tajawal', sans-serif; 
+}
+.dropdown-item{
+    color: rgba(0,0,0,.5);
+}
+.dropdown-item.active{
+  color: $mainColor;
+  background-color: transparent;
+}
+.nav-link.dropdown-toggle{
+    color: rgba(0,0,0,.5);
+    font-size: 15px;
+    font-weight: bold;
+}
+.nav-link.dropdown-toggle:hover{
+    color: $mainColor;
+}
+.navbar .services{
+    margin-left: 1px !important;
+    margin-top: 0 !important;
+}
+.navbar .services a{
+    font-size: 17px;
+}
+.dropdown-menu > a:hover,
+.dropdown-menu > a:focus {
+    color: $mainColor;
+    background-color: #0000000d;
+    -webkit-transition:padding 0.5s ease;
+    -moz-transition:padding 0.5s ease;
+    -o-transition:padding 0.5s ease;
+    transition:padding 0.5s ease;
+}
+.dropdown-menu > a:hover,
+.dropdown-menu > a:focus { color: $mainColor; padding-left: 40px;}
+.nav-link.dropdown-toggle.Ar{
+    margin-right: 100px;
+    font-size: 17px;
+}
+.navbar-brand span.Ar{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Amiri', serif;
+
+}
+.navbar .logo.Ar {
+    margin-left: -52px;
+}
+// ***********Start Header*******************//
+.header .content h1.Ar{
+    color: #fff;
+    font-size: 30px;
+    line-height: 1.5;
+    width: 100%;
+    padding-top: 35px;
+    font-family: 'tajawal', serif;
+}
+// ****************Start Overview*************************//
+.overview h2.Ar{
+    font-size: 34px;
+    font-family: 'tajawal', sans-serif; 
+}
+.overview p.Ar{
+    font-size: 20px;
+    font-family: 'tajawal', sans-serif;
+}
+.overview a.Ar{
+    font-size: 15px;
+    font-family: 'tajawal', sans-serif;
+}
+// ****************Start Services*************************//
+.our-services h2.ser-Ar {
+    font-size: 34px;
+    font-family: 'tajawal', sans-serif;
+}
+
+.our-services .card .card-title.Ar {
+    font-size: 18px;
+    font-family: 'tajawal', sans-serif;
+}
+.our-services .card .card-text.Ar {
+    font-family: 'tajawal', sans-serif;
+    font-size: 17px;
+ }
+ .card .link.Ar{
+    font-size: 15px;
+    font-family: 'tajawal', sans-serif;
+ }
+ // ****************Start Featured*************************//
+ .featured_work h2.featured-Ar{
+    font-size: 34px;
+    font-family: 'tajawal', sans-serif;
+}
+.box h4.Ar{
+    font-family: 'tajawal', sans-serif;
+    font-size: 20px;
+}
+ .box p.Ar{
+    font-size: 16px;
+    font-family: 'tajawal', sans-serif;
+}
+.container-feat p.Ar{
+    font-size: 20px;
+    font-family: 'tajawal',sans-serif;
+}
+.stats.Ar  i{
+margin-left: 0;
+}
+// ****************Start Contact Us*************************//
+.contact-us .par.Ar{
+    font-size: 22px;
+    font-family:'tajawal', sans-serif ;
+}
+.contact-us .filed.Ar{
+    font-family:'tajawal', sans-serif ;
+}
+.contact-us p.Ar{
+    margin-bottom: 40px;
+    font-family: 'tajawal',sans-serif;
+
+}
+.email.Ar,.whats.Ar{
+  font-family: 'tajawal','sana-serif';
+}
+.contact-us input.Ar::placeholder,.contact-us textarea.Ar::placeholder{
+    font-size: 17px;
+}
+// ****************Start lang*************************//
+.join-us h2.Ar,
+.read h2.Ar,
+.web h2.Ar,
+.lang h2.Ar{
+    font-size: 34px; 
+    font-family: 'tajawal', sans-serif;
+}
+ .web h3.Ar{
+    font-size: 30px; 
+    font-family: 'tajawal', sans-serif;  
+ }
+ .web p.descrption.Ar{
+    font-size: 18px;
+    font-family: 'tajawal',sans-serif;
+}
+.lang-sec.Ar{
+padding-right: 77px;
+}
